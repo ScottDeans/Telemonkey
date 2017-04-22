@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7e9d497d232ea8f4c91b9dbd589bbd8e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cursorInRange: {fileID: 2800000, guid: 52e2fc255f3b11e44a462e8d4739e7bc, type: 3}
+  - cursorOutRange: {fileID: 2800000, guid: cfe4b8d2855786741a366e63d5b10a43, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
